@@ -23,7 +23,7 @@ You need to install python on your computer before you try this tool. You can re
 Clone the project
 
 ```bash
-  git clone https://github.com/LakshanRukantha/PassGen.git
+  git clone https://github.com/krishna-negi05/Password-Generator.git
 ```
 
 Go to the project directory
@@ -48,7 +48,7 @@ Then you can simply use this tool as your preference.
 
 ## Support
 
-For support, email rukanthalakshan@gmail.com.
+For support, email krishnanegi1981@gmail.com.
 
 ## Contributing
 
@@ -56,4 +56,4 @@ Contributions are always welcome!
 
 ## License
 
-[MIT](https://github.com/LakshanRukantha/PassGen/blob/master/LICENSE)
+[MIT](https://github.com/krishna-negi05/Password-Generator/blob/main/LICENSE)
