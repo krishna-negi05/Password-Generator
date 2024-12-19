@@ -12,14 +12,6 @@ Random password generator tool
 - Lightweight tool
 - Cross platform
 
-## Preview
-
-<div align="center">
-
-![Tool Preview](https://firebasestorage.googleapis.com/v0/b/cloud-documents-e3c43.appspot.com/o/GitHub%2FPassGen-View.gif?alt=media&token=32c59b21-d274-4d76-a5bf-3d5b803cfbfd)
-
-</div>
-
 ## Requirements
 
 * Python
